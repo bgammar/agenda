@@ -1,0 +1,40 @@
+{
+    "personas":[
+            {
+                "codigo":1,
+                "categoria":"amigo",
+                "nombre":"Miguel",
+                "apellidos":"Santos Dominguez",
+                "telefonos":[
+                    674839281,
+                    946372817
+                ],
+                "direccion":"C/El Prado,Nº14",
+                "email":"miguelsantos@gmail.com"
+            },
+            {
+                "codigo":2,
+                "categoria":"familia",
+                "nombre":"Rocío",
+                "apellidos":"Amador del Carmen",
+                "telefonos":[
+                    654362773,
+                    937829304
+                ],
+                "direccion":"C/Aguamarina,Nº2",
+                "email":"rocamcar@gmail.com"
+            },
+            {
+                "codigo":3,
+                "categoria":"compañero de trabajo",
+                "nombre":"Iker",
+                "apellidos":"García Torres",
+                "telefonos":[
+                    608473817,
+                    987112345
+                ],
+                "direccion":"C/Laurel,Nº7",
+                "email":"iker78@gmail.com"
+            }
+    ]
+}
